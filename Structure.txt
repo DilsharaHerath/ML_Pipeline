@@ -1,0 +1,11 @@
+PART 1
+
+1. New Environment
+conda create -p venv python==3.12
+conda activate venv/
+
+2. Initilize git
+
+2. setup.py
+
+3. requirements.txt
