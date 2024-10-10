@@ -9,3 +9,6 @@ conda activate venv/
 2. setup.py
 
 3. requirements.txt
+
+Part 2
+
